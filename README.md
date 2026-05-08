@@ -1,17 +1,20 @@
-# CRUD Data Produk
+# UTS
 
 Tema: Data Produk
 
 Fitur:
-- Tambah Produk
-- Edit Produk
-- Hapus Produk
-- Upload Foto
-- Validasi JavaScript
+
+* Tambah Produk
+* Edit Produk
+* Hapus Produk
+* Upload Foto
+* Validasi JavaScript
 
 Teknologi:
-- HTML
-- CSS
-- JavaScript
-- PHP Native
-- MySQL
+
+* HTML
+* CSS
+* JavaScript
+* PHP Native
+* MySQL
+
